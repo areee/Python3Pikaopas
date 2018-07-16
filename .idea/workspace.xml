@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d985c250-7066-4c06-ac28-cfd7da59bd40" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/tiedosto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk-gui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/try_try.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,24 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jauhopeukalo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jauhopeukalo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jauhopeukalo2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jauhopeukalo2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="jalojuoma.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jalojuoma.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,17 +72,35 @@
       <file leaf-file-name="try_try.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/try_try.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="87" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tiedosto.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tiedosto.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tiedosto.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tk-gui.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tk-gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -131,6 +131,8 @@
         <option value="$PROJECT_DIR$/listailua.py" />
         <option value="$PROJECT_DIR$/try_try.py" />
         <option value="$PROJECT_DIR$/tiedosto.txt" />
+        <option value="$PROJECT_DIR$/gui.py" />
+        <option value="$PROJECT_DIR$/tk-gui.py" />
       </list>
     </option>
   </component>
@@ -171,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try_try">
-    <configuration name="funkkis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tk-gui">
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3OhjelmointioppaanKoodit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funkkis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +228,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="silmukointia" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tk-gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3OhjelmointioppaanKoodit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,7 +240,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/silmukointia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tk-gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,19 +265,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.silmukointia" />
-      <item itemvalue="Python.funkkis" />
       <item itemvalue="Python.potenssit" />
       <item itemvalue="Python.listailua" />
       <item itemvalue="Python.try_try" />
+      <item itemvalue="Python.gui" />
+      <item itemvalue="Python.tk-gui" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tk-gui" />
+        <item itemvalue="Python.gui" />
         <item itemvalue="Python.try_try" />
         <item itemvalue="Python.listailua" />
         <item itemvalue="Python.potenssit" />
-        <item itemvalue="Python.funkkis" />
-        <item itemvalue="Python.silmukointia" />
       </list>
     </recent_temporary>
   </component>
@@ -504,17 +506,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tiedosto.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tk-gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
