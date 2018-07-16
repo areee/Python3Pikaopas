@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d985c250-7066-4c06-ac28-cfd7da59bd40" name="Default" comment="" />
+    <list default="true" id="d985c250-7066-4c06-ac28-cfd7da59bd40" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/funkkis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numeroita.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/potenssit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/jauhopeukalo2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+              <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -47,11 +52,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="silmukointia.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="silmukointia.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/silmukointia.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+              <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funkkis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funkkis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="potenssit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/potenssit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numeroita.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/numeroita.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -65,6 +97,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -73,6 +108,9 @@
         <option value="$PROJECT_DIR$/jalojuoma.py" />
         <option value="$PROJECT_DIR$/valikkorakenteista.py" />
         <option value="$PROJECT_DIR$/silmukointia.py" />
+        <option value="$PROJECT_DIR$/funkkis.py" />
+        <option value="$PROJECT_DIR$/potenssit.py" />
+        <option value="$PROJECT_DIR$/numeroita.txt" />
       </list>
     </option>
   </component>
@@ -81,12 +119,12 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,6 +136,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -112,7 +151,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.silmukointia">
+  <component name="RunManager" selected="Python.potenssit">
+    <configuration name="funkkis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python3OhjelmointioppaanKoodit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funkkis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="jalojuoma" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3OhjelmointioppaanKoodit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +188,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="jauhopeukalo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="potenssit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3OhjelmointioppaanKoodit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,25 +200,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jauhopeukalo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="jauhopeukalo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python3OhjelmointioppaanKoodit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jauhopeukalo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/potenssit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,19 +243,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.jauhopeukalo" />
-      <item itemvalue="Python.jauhopeukalo2" />
       <item itemvalue="Python.jalojuoma" />
       <item itemvalue="Python.valikkorakenteista" />
       <item itemvalue="Python.silmukointia" />
+      <item itemvalue="Python.funkkis" />
+      <item itemvalue="Python.potenssit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.potenssit" />
+        <item itemvalue="Python.funkkis" />
         <item itemvalue="Python.silmukointia" />
         <item itemvalue="Python.valikkorakenteista" />
         <item itemvalue="Python.jalojuoma" />
-        <item itemvalue="Python.jauhopeukalo2" />
-        <item itemvalue="Python.jauhopeukalo" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +279,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -260,6 +299,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jauhopeukalo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jauhopeukalo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jalojuoma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valikkorakenteista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/silmukointia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jauhopeukalo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -291,7 +365,7 @@
     <entry file="file://$PROJECT_DIR$/jauhopeukalo2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+          <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -312,7 +386,28 @@
     <entry file="file://$PROJECT_DIR$/silmukointia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funkkis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/potenssit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numeroita.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
