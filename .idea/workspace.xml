@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d985c250-7066-4c06-ac28-cfd7da59bd40" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/datetime_moduuli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fractions_moduuli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math_moduuli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omamoduuli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omamoduuli_ajo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_moduuli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_moduuli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urllib_moduuli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk-gui2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tk-gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/tk-gui.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,20 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gui.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gui.py">
+      <file leaf-file-name="tk-gui.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tk-gui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="87" />
+            <state relative-caret-position="412">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tk-gui.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tk-gui.py">
+      <file leaf-file-name="tk-gui2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tk-gui2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="87" />
+            <state relative-caret-position="150">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first_gui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first_gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -43,16 +47,7 @@
         <entry file="file://$PROJECT_DIR$/math_moduuli.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="omamoduuli.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/omamoduuli.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -61,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/omamoduuli_ajo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -79,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/time_moduuli.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+              <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -88,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/datetime_moduuli.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+              <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -102,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fractions_moduuli.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fractions_moduuli.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fractions_moduuli.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -138,7 +133,6 @@
         <option value="$PROJECT_DIR$/try_try.py" />
         <option value="$PROJECT_DIR$/tiedosto.txt" />
         <option value="$PROJECT_DIR$/gui.py" />
-        <option value="$PROJECT_DIR$/tk-gui.py" />
         <option value="$PROJECT_DIR$/math_moduuli.py" />
         <option value="$PROJECT_DIR$/omamoduuli.py" />
         <option value="$PROJECT_DIR$/omamoduuli_ajo.py" />
@@ -147,6 +141,9 @@
         <option value="$PROJECT_DIR$/datetime_moduuli.py" />
         <option value="$PROJECT_DIR$/urllib_moduuli.py" />
         <option value="$PROJECT_DIR$/fractions_moduuli.py" />
+        <option value="$PROJECT_DIR$/first_gui.py" />
+        <option value="$PROJECT_DIR$/tk-gui2.py" />
+        <option value="$PROJECT_DIR$/tk-gui.py" />
       </list>
     </option>
   </component>
@@ -187,8 +184,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fractions_moduuli">
-    <configuration name="datetime_moduuli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tk-gui">
+    <configuration name="first_gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3OhjelmointioppaanKoodit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +197,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datetime_moduuli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +221,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="random_moduuli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tk-gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3OhjelmointioppaanKoodit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,13 +233,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_moduuli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tk-gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="time_moduuli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tk-gui2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3OhjelmointioppaanKoodit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,7 +251,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_moduuli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tk-gui2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,19 +276,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.random_moduuli" />
-      <item itemvalue="Python.time_moduuli" />
-      <item itemvalue="Python.datetime_moduuli" />
       <item itemvalue="Python.urllib_moduuli" />
       <item itemvalue="Python.fractions_moduuli" />
+      <item itemvalue="Python.tk-gui" />
+      <item itemvalue="Python.first_gui" />
+      <item itemvalue="Python.tk-gui2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tk-gui" />
+        <item itemvalue="Python.tk-gui2" />
+        <item itemvalue="Python.first_gui" />
         <item itemvalue="Python.fractions_moduuli" />
         <item itemvalue="Python.urllib_moduuli" />
-        <item itemvalue="Python.datetime_moduuli" />
-        <item itemvalue="Python.time_moduuli" />
-        <item itemvalue="Python.random_moduuli" />
       </list>
     </recent_temporary>
   </component>
@@ -335,6 +332,76 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tk-gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math_moduuli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omamoduuli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omamoduuli_ajo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_moduuli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_moduuli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datetime_moduuli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllib_moduuli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fractions_moduuli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jauhopeukalo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -541,13 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tk-gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/omamoduuli.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -558,14 +618,14 @@
     <entry file="file://$PROJECT_DIR$/math_moduuli.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+          <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/omamoduuli_ajo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -579,14 +639,14 @@
     <entry file="file://$PROJECT_DIR$/time_moduuli.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+          <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datetime_moduuli.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="87" lean-forward="true" selection-end-line="1" selection-end-column="87" />
+          <caret line="1" column="87" selection-end-line="1" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -599,8 +659,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fractions_moduuli.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tk-gui2.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tk-gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>

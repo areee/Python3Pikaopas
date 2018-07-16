@@ -4,7 +4,7 @@
 from tkinter import *
 
 
-class Laskin():
+class Laskin:
     luku1 = ""
     luku2 = ""
     vastaus = ""
@@ -22,6 +22,7 @@ class Laskin():
         self.vastaus = Entry(pohja)
         self.vastaus.pack()
         Button(pohja, text='Summaa', command=self.summaa).pack()
+        pohja.mainloop() # areee lisäsi tämän rivin, ilman tätä ei toimi
 
     def summaa(self):
         eka = float(self.luku1.get())
@@ -30,5 +31,5 @@ class Laskin():
         self.vastaus.delete(0, END)
         self.vastaus.insert(0, str(summa))
 
-
 kalkulaattori = Laskin()
+
