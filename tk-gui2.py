@@ -5,7 +5,7 @@ from tkinter import *
 
 pohja = Tk()
 
-tekstikentta = Label(pohja,text="Moi maailma!")
+tekstikentta = Label(pohja, text="Moi maailma!")
 tekstikentta.pack()
 
 pohja.mainloop()
