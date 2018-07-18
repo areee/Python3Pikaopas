@@ -1,11 +1,11 @@
-# Alkuperäinen koodi: Erno Vanhala ja Uolevi Nikula: Python 3 – ohjelmointiopas, versio 1.0
-# Creative Commons Nimi mainittava-Ei kaupalliseen käyttöön-Sama lisenssi 2.5 -lisenssi
+# Alkuperäinen koodi: Jussi Pekka Kasurinen: Python 3 -ohjelmointi
 
 from tkinter import *
 
-pohja = Tk()
+ikkuna = Tk()
 
-tekstikentta = Label(pohja, text="Moi maailma!")
-tekstikentta.pack()
+teksti_ikkuna = Label(ikkuna, text="Teit graafisen \
+ikkunan!")
+teksti_ikkuna.pack()
 
-pohja.mainloop()
+ikkuna.mainloop()
